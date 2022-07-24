@@ -42,13 +42,13 @@ public void show() {
 	}
 
 @Override
-public void aumenta() {
-	this.luminosita = this.luminosita+1;
+public void aumentaLum() {
+	luminosita =  luminosita + 1;
 	
 }
 @Override
-public void diminuisci() {
-	this.luminosita =- 1;
+public void diminuisciLum() {
+	luminosita = luminosita - 1;
 }
 
 	

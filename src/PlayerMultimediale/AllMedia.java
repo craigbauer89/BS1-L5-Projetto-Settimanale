@@ -32,11 +32,22 @@ public void show() {
 	
 }
 
-public void aumenta() {
+public void aumentaVol() {
+	
 	
 }
 
-public void diminuisci() {
+public void diminuisciVol() {
+
+	
+}
+
+public void aumentaLum() {
+	
+	
+}
+
+public void diminuisciLum() {
 
 	
 }

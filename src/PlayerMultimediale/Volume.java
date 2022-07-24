@@ -4,12 +4,12 @@ public class Volume extends Settings {
 	
 	
 	public static void aumenta(AllMedia oggetto) {
-		oggetto.aumenta();
+		oggetto.aumentaVol();
 	}
 	
 
 	public static void  diminuisci(AllMedia oggetto) {
-		oggetto.diminuisci();
+		oggetto.diminuisciVol();
 	}
 
 

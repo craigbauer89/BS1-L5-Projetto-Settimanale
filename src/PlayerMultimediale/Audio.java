@@ -64,13 +64,14 @@ public class Audio extends AllMedia  implements MultimedialePlay {
 	}
 
 	@Override
-	public void aumenta() {
-		this.volume = this.volume+1;
+	public void aumentaVol() {
+		volume = volume+1;
 		
 	}
 	@Override
-	public void diminuisci() {
-		this.volume =- 1;
+	public void diminuisciVol() {
+		volume = volume -1;
 	}
+	
 	
 }

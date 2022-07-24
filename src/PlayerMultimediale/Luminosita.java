@@ -3,12 +3,12 @@ package PlayerMultimediale;
 public class Luminosita extends Settings {
 	
 	public static void aumenta(AllMedia oggetto) {
-		oggetto.aumenta();
+		oggetto.aumentaLum();
 	}
 	
 
 	public static void  diminuisci(AllMedia oggetto) {
-		oggetto.diminuisci();
+		oggetto.diminuisciLum();
 	}
 
 
